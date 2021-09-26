@@ -1,7 +1,6 @@
 <div align="center"><h1> Hi there, I'm Raphael </h1></div>
 
-<div align="center"><img src="https://camo.githubusercontent.com/bf5dc44ac0ba69393ebbd74e44643ee3958fb78b24be824a14c8a0111f3c50ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d73797261736869642d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f73792d7261736869642f" alt="Linkedin Badge" data-canonical-src="www.linkedin.com/in/raphael-hebert" style="max-width: 100%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-raphaelhebert18@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:raphaelhebert18@gmail.com" style="max-width: 100%;"></div>
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div align="center"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" data-canonical-src="www.linkedin.com/in/raphael-hebert" style="max-width: 100%;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/-raphaelhebert18@gmail.com-c14438?style=flat-square&amp;logo=Gmail&amp;logoColor=white&amp;link=mailto:raphaelhebert18@gmail.com" style="max-width: 100%;"></div>
 <br/><br/>
 <h3> What I like: </h3>
 <br/>
