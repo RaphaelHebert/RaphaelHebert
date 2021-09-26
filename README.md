@@ -10,15 +10,13 @@
 Learning Web developpment with __JavaScript__, __REACT__ and __NODE.js__ @ __LambdaSchool__:
 :school: :notebook: [LambdaSchool](https://github.com/RaphaelHebert/LambdaSchool)
   
-    
-    
-      
-        
-          
-            
-              
-                
-                  
+  
+  
+  
+  
+  
+  
+  
                     
                       
                       
