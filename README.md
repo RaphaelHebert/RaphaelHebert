@@ -1,8 +1,8 @@
-### Hi there, I'm Raphael, I like environmental sciences, biology, and of course coding...
+### Hi there, I'm Raphael, I like environmental sciences, biology :microscope: :microbe: :dna:, and of course coding...
 
 Some of my projects:
 
-  :snake: -Python: 
+  :snake: Python: 
     -[NSDPY](https://github.com/RaphaelHebert/nsdpy) an open source project. NSDPY is a package available on PyPI
     
     
