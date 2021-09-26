@@ -4,7 +4,8 @@
 <br/><br/>
 <h3> What I like: </h3>
 <br/>
-<p> eating, sleeping, running, bioinformatics :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...   only simple things!</p>
+<p> eating, sleeping, running, bioinformatics :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
+<p> only simple things!</p>
 <br/><br/>
 
 :open_file_folder: Some of my projects:
