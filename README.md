@@ -1,8 +1,7 @@
 <div align="center"><h1> Hi there, I'm Raphael </h1></div>
-<div align="center">
 	[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raphael-hebert)
 	[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](raphaelhebert18@gmail.com)
-</div>
+
 <br/><br/>
 <h3> What I like: </h3>
 <br/>
@@ -51,8 +50,29 @@
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 <h3>My favorites tools</h3>
 </br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS logo" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node logo" width="50"/><img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgressql logo" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python logo" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab logo" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" alt="PyPI logo" width="50"/>
-  
+<div align="center">
+     <div class="inline-block">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo" width="50"/>
+	</div>
+	<div class="inline-block">
+	     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JS logo" width="50"/>
+	</div>
+	<div class="inline-block">
+	     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="node logo" width="50"/>
+	</div>
+	<div class="inline-block">
+	     <img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" alt="postgressql logo" width="50"/>
+	</div>
+	<div class="inline-block">
+	     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python logo" width="50"/>
+	</div>
+	<div class="inline-block">
+	     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="colab logo" width="50"/>
+	</div>
+	<div class="inline-block">
+	     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/PyPI_logo.svg" alt="PyPI logo" width="50"/></div>
+	
+</div>
   
   
   
