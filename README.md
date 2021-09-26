@@ -4,13 +4,13 @@
 
   :snake: Python: 
     
-    - [NSDPY](https://github.com/RaphaelHebert/nsdpy) an open source project. NSDPY is a package available on PyPI
+   - [NSDPY](https://github.com/RaphaelHebert/nsdpy) an open source project. NSDPY is a package available on PyPI
     
     
 :school: :notebook: Learning Web developpment with __JavaScript__, __REACT__ and __NODE.js__ @ __LambdaSchool__:
 
 
-    - [LambdaSchool](https://github.com/RaphaelHebert/LambdaSchool)
+   - [LambdaSchool](https://github.com/RaphaelHebert/LambdaSchool)
   
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
   
