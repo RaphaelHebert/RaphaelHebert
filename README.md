@@ -7,7 +7,7 @@ I like environmental sciences :seedling: :ocean: biology :microscope: :microbe: 
 
 :open_file_folder: Some of my projects:
 
-  :snake: Python: 
+  ![Python logo](https://www.python.org/static/community_logos/python-logo-generic.svg) Python: 
     
    - [NSDPY](https://github.com/RaphaelHebert/nsdpy) an open source project. NSDPY is a package available on PyPI
    
