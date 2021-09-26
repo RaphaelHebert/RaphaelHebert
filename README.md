@@ -1,7 +1,9 @@
 <div align="center"><h1> Hi there, I'm Raphael </h1></div>
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/raphael-hebert)
+
 <div align="center"><a href="www.linkedin.com/in/raphael-hebert"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width: 100%;"></a>
-	[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/raphael-hebert)
+	
 
 	<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="raphael-hebert" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/raphael-hebert?trk=profile-badge">raphael hebert</a></div>
               
