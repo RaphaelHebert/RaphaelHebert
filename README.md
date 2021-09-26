@@ -3,7 +3,7 @@
 
 I like environmental sciences :seedling: :ocean: biology :microscope: :microbe: :dna: and of course coding :floppy_disk: :eyeglasses:...
 
-
+<br/><br/
 
 :open_file_folder: Some of my projects:
 
