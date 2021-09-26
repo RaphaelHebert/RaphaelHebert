@@ -16,13 +16,13 @@
 :open_file_folder: Some of my projects:
   
   
-   - [NSDPY](https://github.com/RaphaelHebert/nsdpy) an open source project written in Python. NSDPY is a package available on PyPI>. 
+   - [NSDPY](https://github.com/RaphaelHebert/nsdpy) an open source project written in Python. NSDPY is a package available on PyPI>. [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
+
    
 
 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
