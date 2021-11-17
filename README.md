@@ -1,17 +1,18 @@
 ![This is my banner photo](https://github.com/RaphaelHebert/RaphaelHebert/blob/main/assets/inCaseOfFire.jpg?raw=true)
 
 
-<div align="center"><h1> Hi there, I'm Raphael </h1></div>
-
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-<br/><br/>
-<h3> What I like: </h3>
+<div align="center">
+  <h1> Hi there, I'm Raphael </h1>
+</div>
+<div align="center">
+<a href="linkedin.com/in/raphael-hebert"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedIn"/> </a>
+<a href="mailto:raphaelhebert18@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
+</div>
 <br/>
+<h3> What I like: </h3>
 <p> Eating, sleeping, running, bioinformatics :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
 <p> Simple things only!</p>
-<br/><br/>
+<br/>
 
 :open_file_folder: Some of my projects:
   
@@ -51,7 +52,7 @@
   ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
    
   
-<br/><br/><br/><br/><br/><br/>
+<br/><br/>
 <h3>My favorites tools</h3>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
