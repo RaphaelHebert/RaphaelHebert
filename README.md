@@ -1,4 +1,4 @@
-![This is my banner photo](https://github.com/RaphaelHebert/RaphaelHebert/blob/main/assets/banner.jpeg?raw=true)
+![This is my banner photo](https://github.com/RaphaelHebert/RaphaelHebert/blob/main/assets/inCaseOfFire.jpg?raw=true)
 
 
 <div align="center"><h1> Hi there, I'm Raphael </h1></div>
