@@ -10,13 +10,14 @@
 </div>
 <br/>
 <h3> What I like: </h3>
-<p> Eating, sleeping, running, bioinformatics :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
+<p> Eating, sleeping, running, bioinformatics, web development :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
 <p> Simple things only!</p>
 <br/>
 
 :open_file_folder: Some of my projects:
 
-  -[Promission](https://promissions.herokuapp.com/login) my first website... wirtten in python, using Flask framework and some bootstrap, and a SQL database hosted on heroku and managed with SQLite. It intended to be a market place and provide  functionnalities to let English teachers manage their agenda, find work and publish their profile and to let agents manage a team of teachers, publich adds and find new teachers..   
+  -[Promission](https://promissions.herokuapp.com/login) To pay a visit use the credentials: anymail@gmail.com, password: freepass  
+my first website... wirtten in python, using Flask framework and some bootstrap, and a SQL database hosted on heroku and managed with SQLite. It intended to be a market place and provide  functionnalities to let English teachers manage their agenda, find work and publish their profile and to let agents manage a team of teachers, publich adds and find new teachers..   
   
   
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
