@@ -9,6 +9,8 @@
 <a href="mailto:raphaelhebert18@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> </a>
 </div>
 <br/>
+<h3> Where I work: </h3>
+<a href="corize.co.jp">Corize</a>
 <h3> What I like: </h3>
 <p> Eating, sleeping, running, bioinformatics, web development :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
 <p> Simple things only!</p>
