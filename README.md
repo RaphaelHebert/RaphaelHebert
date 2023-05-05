@@ -10,7 +10,7 @@
 </div>
 <br/>
 <h3> Where I work: </h3>
-<p> I work at <a href="corize.co.jp">Corize</a> since may 2022. Myprofessional github account: <a href="https://github.com/search?q=raphael-corize">raphael-corize</p>
+<p> I work at <a href="https://www.quadient.com/">Quadient</a>.
 <h3> What I like: </h3>
 <p> Eating, sleeping, running, bioinformatics, web development :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
 <p> Simple things only!</p>
