@@ -10,7 +10,7 @@
 </div>
 <br/>
 <h3> Where I work: </h3>
-<p> I work at <a href="https://www.quadient.com/">Quadient</a>.
+<p> I work at <a href="https://www.volta-medical.com/">Volta Medical</a>.
 <h3> What I like: </h3>
 <p> Eating, sleeping, running, bioinformatics, web development :microscope: :microbe: :dna: coding :floppy_disk: :eyeglasses:...  </p>
 <p> Simple things only!</p>
